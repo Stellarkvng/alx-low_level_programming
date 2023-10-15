@@ -15,7 +15,7 @@ int main(void)
 
 	for (m = 1; m <= n; m++)
 	{
-		if (n % i == 0)
+		if (n % m == 0)
 		{
 			if (n == m)
 			{
